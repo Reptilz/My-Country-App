@@ -1,4 +1,4 @@
-# My Country App
+# My Country App 🚀
 
 The goal of the project is to learn React, get to know what
 what is a component, a hook, etc.? I am using the Country REST API which
